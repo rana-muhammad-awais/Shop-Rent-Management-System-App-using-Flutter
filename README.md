@@ -2,8 +2,6 @@
 
 **Rentz** is a modern, efficient Flutter application designed to streamline the management of commercial shop rentals. It empowers landlords and property managers to digitize their ledger, track payments in real-time, and issue professional receipts—all from their smartphone.
 
-![Rentz Banner](assets/logo.png)
-
 ## 🌟 Key Features
 
 **1. 📊 Financial Dashboard**
